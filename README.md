@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing a Bachelor's degree in computer science.
-- 💼 Experience with [Python](https://www.linkedin.com/in/asher-thomas-/).
+- 🌱 I’m currently pursuing a Bachelor's degree in computer science and psychology.
+- 💼 Experience with [Python, C, JavaScript, HTML/CSS](https://www.linkedin.com/in/ashrthms/).
 - 📫 You can reach me through email at <ashermthomas@gmail.com>.
 - 📍 Located in Denver. 🏔️ Grew up in San Francisco. 
 - ⚡ Fun fact: I dont know what I'm doing.
